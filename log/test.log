@@ -1,0 +1,406 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+Unable to load search, underlying cause No such file to load -- search 
+
+ /home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-3.2.13/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-3.2.13/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-3.2.13/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:779:in `each'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:762:in `fixtures'
+welcome_controller_test.rb:7:in `<class:WelcomeControllerTest>'
+welcome_controller_test.rb:6:in `<main>'
+  [1m[36m (0.3ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.3ms)[0m  DELETE FROM `search`
+Mysql2::Error: Table 'neuroml_dev.search' doesn't exist: DELETE FROM `search`
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+Unable to load search, underlying cause No such file to load -- search 
+
+ /home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-3.2.13/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-3.2.13/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-3.2.13/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:779:in `each'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/neuromine/.rvm/gems/ruby-1.9.3-p286/gems/activerecord-3.2.13/lib/active_record/fixtures.rb:762:in `fixtures'
+welcome_controller_test.rb:7:in `<class:WelcomeControllerTest>'
+welcome_controller_test.rb:6:in `<main>'
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mFixture Delete (0.3ms)[0m  DELETE FROM `search`
+Mysql2::Error: Table 'neuroml_dev.search' doesn't exist: DELETE FROM `search`
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  [1m[35m (2.7ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.5ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.3ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.6ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.3ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (75.2ms)[0m  [1mcall keyword_search('',0)[0m
+  Rendered welcome/_no_results.html.erb (3.5ms)
+Completed 200 OK in 441ms (Views: 102.3ms | ActiveRecord: 82.0ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Mysql2::Error: Commands out of sync; you can't run this command now: ROLLBACK
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  [1m[35m (1.4ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.3ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.2ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.3ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.2ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (18.3ms)[0m  [1mcall keyword_search('',0)[0m
+  Rendered welcome/_no_results.html.erb (3.4ms)
+Completed 200 OK in 329ms (Views: 72.2ms | ActiveRecord: 22.8ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Mysql2::Error: Commands out of sync; you can't run this command now: ROLLBACK
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"purkinje"}
+  [1m[35m (1.4ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.2ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.1ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.2ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.1ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (6.4ms)[0m  [1mcall keyword_search('purkinje',1)[0m
+  [1m[35mCell Load (0.1ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000005' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000037' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000036' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000035' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000034' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000033' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000032' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000031' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000030' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000029' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000028' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000027' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000026' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000025' LIMIT 1[0m
+  Rendered welcome/_keyword_results_list.html.erb (4.7ms)
+Completed 200 OK in 378ms (Views: 72.6ms | ActiveRecord: 14.0ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"purkinje"}
+  [1m[35m (1.5ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.2ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.1ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.2ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.2ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (6.5ms)[0m  [1mcall keyword_search('purkinje',1)[0m
+  [1m[35mCell Load (0.2ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000005' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000037' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000036' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000035' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000034' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000033' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000032' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000031' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000030' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000029' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000028' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000027' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000026' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000025' LIMIT 1[0m
+  Rendered welcome/_keyword_results_list.html.erb (4.6ms)
+Completed 200 OK in 358ms (Views: 72.8ms | ActiveRecord: 15.3ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"golgi"}
+  [1m[35m (0.2ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mAnonymousUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1[0m
+  Current user: anonymous
+  [1m[35m (18.6ms)[0m  call keyword_search('golgi',1)
+  [1m[36mNetwork Load (0.3ms)[0m  [1mSELECT `networks`.* FROM `networks` WHERE `networks`.`Network_ID` = 'NMLNT000001' LIMIT 1[0m
+  [1m[35mCell Load (0.3ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000004' LIMIT 1
+  [1m[36mChannel Load (0.3ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000024' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000023' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000022' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000021' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000020' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000019' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000018' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000017' LIMIT 1
+  Rendered welcome/_keyword_results_list.html.erb (0.8ms)
+Completed 200 OK in 54ms (Views: 1.6ms | ActiveRecord: 22.5ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"purkinje"}
+  [1m[35m (1.9ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.5ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.3ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.6ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.4ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (6.0ms)[0m  [1mcall keyword_search('purkinje',1)[0m
+  [1m[35mCell Load (0.2ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000005' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000037' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000036' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000035' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000034' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000033' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000032' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000031' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000030' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000029' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000028' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000027' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000026' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000025' LIMIT 1[0m
+  Rendered welcome/_keyword_results_list.html.erb (4.5ms)
+Completed 200 OK in 362ms (Views: 82.1ms | ActiveRecord: 17.7ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"golgi"}
+  [1m[35m (0.3ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mAnonymousUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1[0m
+  Current user: anonymous
+  [1m[35m (5.8ms)[0m  call keyword_search('golgi',1)
+  [1m[36mNetwork Load (0.3ms)[0m  [1mSELECT `networks`.* FROM `networks` WHERE `networks`.`Network_ID` = 'NMLNT000001' LIMIT 1[0m
+  [1m[35mCell Load (0.3ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000004' LIMIT 1
+  [1m[36mChannel Load (0.4ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000024' LIMIT 1[0m
+  [1m[35mChannel Load (0.3ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000023' LIMIT 1
+  [1m[36mChannel Load (0.3ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000022' LIMIT 1[0m
+  [1m[35mChannel Load (0.3ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000021' LIMIT 1
+  [1m[36mChannel Load (0.3ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000020' LIMIT 1[0m
+  [1m[35mChannel Load (0.3ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000019' LIMIT 1
+  [1m[36mChannel Load (0.3ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000018' LIMIT 1[0m
+  [1m[35mChannel Load (0.3ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000017' LIMIT 1
+  Rendered welcome/_keyword_results_list.html.erb (0.7ms)
+Completed 200 OK in 38ms (Views: 1.4ms | ActiveRecord: 10.6ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"purkinje"}
+  [1m[35m (1.6ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.3ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.2ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.3ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.2ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (6.1ms)[0m  [1mcall keyword_search('purkinje',1)[0m
+  [1m[35mCell Load (0.2ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000005' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000037' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000036' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000035' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000034' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000033' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000032' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000031' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000030' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000029' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000028' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000027' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000026' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000025' LIMIT 1[0m
+  Rendered welcome/_keyword_results_list.html.erb (4.7ms)
+Completed 200 OK in 373ms (Views: 79.8ms | ActiveRecord: 16.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"golgi"}
+  [1m[35m (0.2ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mAnonymousUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1[0m
+  Current user: anonymous
+  [1m[35m (5.8ms)[0m  call keyword_search('golgi',1)
+  [1m[36mNetwork Load (0.2ms)[0m  [1mSELECT `networks`.* FROM `networks` WHERE `networks`.`Network_ID` = 'NMLNT000001' LIMIT 1[0m
+  [1m[35mCell Load (0.2ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000004' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000024' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000023' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000022' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000021' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000020' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000019' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000018' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000017' LIMIT 1
+  Rendered welcome/_keyword_results_list.html.erb (0.7ms)
+Completed 200 OK in 35ms (Views: 1.4ms | ActiveRecord: 9.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+OpenIdAuthentication.store is nil. Using in-memory store.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Channel> at /home/neuromine/newred_dbsrch/app/models/channel.rb:4)
+Creating scope :sorted. Overwriting existing method Group.sorted.
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Metadata> at /home/neuromine/newred_dbsrch/app/models/metadata.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Model> at /home/neuromine/newred_dbsrch/app/models/model.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:OtherKeyword> at /home/neuromine/newred_dbsrch/app/models/other_keyword.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Publication> at /home/neuromine/newred_dbsrch/app/models/publication.rb:3)
+DEPRECATION WARNING: Calling set_primary_key is deprecated. Please use `self.primary_key = 'the_name'` instead. (called from <class:Reference> at /home/neuromine/newred_dbsrch/app/models/reference.rb:3)
+Creating scope :sorted. Overwriting existing method User.sorted.
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"purkinje"}
+  [1m[35m (1.7ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mSetting Load (0.3ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'rest_api_enabled' LIMIT 1[0m
+  [1m[35mAnonymousUser Load (0.2ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1
+  Current user: anonymous
+  [1m[36mSetting Load (0.3ms)[0m  [1mSELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'login_required' LIMIT 1[0m
+  [1m[35mSetting Load (0.2ms)[0m  SELECT `settings`.* FROM `settings` WHERE `settings`.`name` = 'default_language' LIMIT 1
+  [1m[36m (27.4ms)[0m  [1mcall keyword_search('purkinje',1)[0m
+  [1m[35mCell Load (0.2ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000005' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000037' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000036' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000035' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000034' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000033' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000032' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000031' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000030' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000029' LIMIT 1[0m
+  [1m[35mChannel Load (0.3ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000028' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000027' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000026' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000025' LIMIT 1[0m
+  Rendered welcome/_keyword_results_list.html.erb (4.8ms)
+Completed 200 OK in 390ms (Views: 89.0ms | ActiveRecord: 38.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Processing by WelcomeController#search_process as HTML
+  Parameters: {"q"=>"golgi"}
+  [1m[35m (0.3ms)[0m  SELECT MAX(`settings`.`updated_on`) AS max_id FROM `settings` 
+  [1m[36mAnonymousUser Load (0.1ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`type` IN ('AnonymousUser') LIMIT 1[0m
+  Current user: anonymous
+  [1m[35m (6.0ms)[0m  call keyword_search('golgi',1)
+  [1m[36mNetwork Load (0.2ms)[0m  [1mSELECT `networks`.* FROM `networks` WHERE `networks`.`Network_ID` = 'NMLNT000001' LIMIT 1[0m
+  [1m[35mCell Load (0.2ms)[0m  SELECT `cells`.* FROM `cells` WHERE `cells`.`Cell_ID` = 'NMLCL000004' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000024' LIMIT 1[0m
+  [1m[35mChannel Load (0.2ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000023' LIMIT 1
+  [1m[36mChannel Load (0.2ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000022' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000021' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000020' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000019' LIMIT 1
+  [1m[36mChannel Load (0.1ms)[0m  [1mSELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000018' LIMIT 1[0m
+  [1m[35mChannel Load (0.1ms)[0m  SELECT `channels`.* FROM `channels` WHERE `channels`.`Channel_ID` = 'NMLCH000017' LIMIT 1
+  Rendered welcome/_keyword_results_list.html.erb (0.7ms)
+Completed 200 OK in 37ms (Views: 1.4ms | ActiveRecord: 9.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
